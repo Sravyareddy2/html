@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./practice.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice</title>
+    <style>
+        h2{
+          color:aqua;
+          background-color: blanchedalmond;
+            
+        }
+        table{
+          border-collapse: collapse;
+        }
+        th,tr,td{
+          border: 2px solid red;
+          background-color: rgb(207, 204, 11);
+
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color: blue; background-color: red;;border-color: black;">sravya</h1>
+    <h2>sravya</h2>
+    <h3>sravya</h3>
+    <h4 style="color: red;background-color: black;">sravya</h4>
+    <h5 style="color: skyblue; background-color: blue;">sravya</h5>
+    <h6 style="color: violet; background-color: black;">sravya</h6>
+    <hr>
+    <marquee scrollamount="3" direction="rtl">sravya</marquee>
+    <marquee scrollamount="3" direction="ltr">sravya</marquee>
+    <marquee scrollamount="" direction="up">sravya</marquee>
+    <marquee scrollamount="" direction="down">sravya</marquee>
+    <hr>
+    <p style="color: blue;">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed maxime a quas cum? Magnam assumenda dolor tempore consectetur architecto natus necessitatibus fugiat sint quisquam totam, deleniti eius commodi tenetur eos.</p>
+    <marquee>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi quam ipsam quibusdam, provident vitae itaque repudiandae corporis sapiente aliquam incidunt eos alias mollitia est vel. Esse quasi provident velit doloribus.</marquee>
+    <p>Lorem ipsum dolor sit amet<br> consectetur adipisicing elit. <br>Eveniet quidem quis expedita sit modi magnam.<br> Neque quo porro iure optio? Ratione tempora sunt quidem quaerat harum magnam, earum nesciunt fugiat?</p>
+    <marquee scrollamount="30"><iframe width="200" height="200"  src="https://www.youtube.com/embed/Rv3DLPFbQgA?si=qIeMhz1rIUzFJTE2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></marquee>
+    <marquee scrollamount="30"><iframe width="200" height="200" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8159097.348826552!2d73.24035640000001!3d3.112098250000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x24b599bfaafb7bbd%3A0x414509e181956289!2sMaldives!5e0!3m2!1sen!2sin!4v1709656255305!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></marquee>
+    <marquee scrollamount="30"><img src="./Fish.jpg" height="200" width="200"></marquee><br>
+    <img src="https://cdn5.vectorstock.com/i/1000x1000/65/54/cute-anime-girl-in-black-hoodie-and-green-eyes-vector-39706554.jpg"height="200" width="200"><br>
+    <a href="https://www.canva.com/"><img width="200" height="=200" src="https://cdn5.vectorstock.com/i/1000x1000/65/54/cute-anime-girl-in-black-hoodie-and-green-eyes-vector-39706554.jpg"></a><br>
+    <strong title="hi">hi</strong><br>
+    <i style="color: #0000ff;">hi</i><br>
+    <del>hi</del><br>
+    <small>hi</small><br>
+    <b>hi</b><br>
+    2<sup>3</sup>=8 <br>
+    h<sub>2</sub>0 <br>
+    <u>hi</u><br>
+    <cite>hi</cite><br>
+    <ins>hi</ins><br>
+    <abbr title="world wide web">WWW</abbr><br>
+    <bdo dir="rtl">sravya</bdo><br>
+    <address>hi</address>
+    <q>hello</q>
+    <blockquote cite="https://www.acet.ac.in/">
+        + 91 99591 76665  adityacollegeenggtech@gmail.com     
+        Login 
+       logo
+       Home
+       About Us
+       Academics
+       Departments
+       Research
+       Infrastructure
+       Collaboration
+       Examination
+       Campus life
+       Placements
+       Downloads
+       NIRF
+       Flash NewsAUTONOMOUS, NBA & NAAC A+ CGPA 3.40
+       For e-books of pearson use the following link click here
+       For e-books of mcgrawhill use the following link click here
+       AICTE Directive For Skill Testing Of The Students click here
+       For any compliants contact
+       Glimpses of the faculty development programme on English language TEACHnology organised by ACET
+  
+       ﻿
+       EVENTS
+       
+       NOV
+       22
+       The registration link for EFx ACET is now live
+       More
+       SEP
+       30
+       Internal Smart India Hackathon 2023
+       More
+       SEP
+       15
+       Tech Fest "VEDA -2023"
+       More
+       OCT
+       20
+       Rated 3.5 stars by "Annual Performance Rating of Institutions Innovation Council(IIC) for the academic year 2019-20.
+       More
+       LATEST UPDATES
+       
+       II B.Tech II Semester Supplementary Results Released.Read
+       II B.Tech I Semester Regular & Supplementary Results Released.Read
+       Apply for the UG & PG provisional certificates - Reg.Read
+       III B.Tech II Semester Supplementary Results Released.Read
+       
+       CIRCULARS
+       
+       SEP
+       29
+       Project Batch List
+       More >
+       
+       SEP
+       29
+       Transfer
+       More >
+       
+       SEP
+       22
+       Mobile phone circular
+       More >
+       
+       AUG
+       22
+       EKYC (lll phase) at your nearest SACHIVALAYAM. IMMEDIATELY
+       More >
+       
+       AUG
+       23
+       KAKINADA District Youth Festival -2023
+       More >
+       
+       
+       TECHNICAL HUB
+        PreviousNext
+       
+       
+       FEATURES
+       
+       
+       
+       TARGET
+       
+       Online Fee Payment
+       
+       LMS
+       
+       ADITYA LIBRARY
+       
+       PARENT'S LOGIN
+       
+       
+       
+       
+       AFFILIATION AND ACCREDITATION
+       Approved by AICTE
+       Permanently Affiliated to JNTU Kakinada.
+       ISO Certified.
+       
+       
+       UGC
+       
+       NAAC (AQAR 2017-18)             (AQAR 2016 -17)
+       Accredited by National Assessment.
+       
+       Accredited by IAO
+       
+       MOU's
+                  
+       
+       CISCO
+       Newtworking Academy
+       
+       Training on CISCO Certified Networking Association Certification.
+    
+       Students Testimonials
+       OUR LEADING RECRUITERS
+                                                      
+       logo
+        
+        
+       
+        
+       
+        
+       REACH US HERE:
+       
+        ADITYA COLLEGE OF
+       ENGINEERING & TECHNOLOGY
+       Aditya Nagar, ADB Road,
+       Surampalem - Pin:533437
+       East-Godavari District,
+       Andhra Pradesh,
+       INDIA.
+       
+        Phone (India) :
+       0884-2326212,9959176665
+       
+        Whats App : +91 7036076661
+       
+        E-mail : office@acet.ac.in
+       
+       OFFICES
+       Corporate office
+       
+       International Admissions
+       
+       Bihar
+       
+       Jharkhand
+       
+       Kerala
+       
+       Bangladesh
+       
+       West Bengal
+       
+       Aditya College Engineering & Technology © 2020 - All Rights Reserved.Powered By   
+        APPLY FOR ADMISSIONS     Join Today
+       
+       fb_messenger
+    </blockquote>
+    <pre>hi
+      hello
+      .............
+                  ......................
+                  wjdoqnjakkqejdjkbewhjbebjhb
+        hjbdskkjbhjedjcdbjhedje
+
+    </pre>
+    
+    <a target="_blank" href="https://www.amazon.in/">amazon_blank</a><br>
+    <a target="_parent" href="https://www.amazon.in/">amazon_parent</a><br>
+    <a target="_self" href="https://www.amazon.in/">amazon_self</a><br>
+    <a target="_top" href="https://www.amazon.in/">amazon_top</a><br>
+    <a href="https://www.amazon.in/"><img src="data:image/png;base64,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" alt=""></a>
+    <a href="https://www.flipkart.com/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAADCCAMAAAB6zFdcAAABQVBMVEX///8Qe9T45CoAc9L9zQkAeNP63B771xcAdtMAcdH35yv9ywD72Rr44yj5zQD5zxj+5Jv//fT86qP36Urj8Pr53yL30Xf/0gDr8/sAddv765L81BL2vxbzmwAAbND1+v2fwOn1sw+wzu681vHZ6Pf/2AD84YiCseQVf9Uridh1quL56H6jxuvU5fZkod/L3/SdpnJJlNzFsCj1thHzpAr0qwz65ID/5RqKt+ZWmt04jNn/3QDQv0379Mv97Kv8+uf83WL3xDHfvyL2vz3rxx64pCjPtiX46HH888D56WP423342oX36kT++d778qj26Yjo0iHXvhLr1lG7vl6Wpn+Gn4XQyU14mpEjer6fr37iyibf0Txbi5+wtWRDgKY0hL9XkK9wnJUAadlGib2wtGGusXNtmZ/gxj3Ht1AAaL7j26/svGlbAAAJl0lEQVR4nO2bDVsaSRLHB9qBGRS5WWGBmGMQcBkIiqPnIhLNXk4Rc0nWrDEvZrPJJmvc2+//Aa6runveGHLnk1Gfx6d+KjDTM9D176qu6g7RNIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgiG9l77v/h/1Ht93Pa8P6oTDPmZtbnM3cHF7y0+S2O3tN7G2h/XOFr4I63P/nbXf2mtjb3uYSoKHjzRjrH28+lirc3/7XbXf2mthbKS0Iaw8OD8Hc+wH44eahVGYuXbirGnyXy0kNCuMx2L21tSLY2oJD5QeFQj6XvpPTonWUy+Wy0kgQYGVle/sfgu3t7ZUt4QxSg1xu/7Y7nDyTdA404FN/YXH+/v0Vbv7fg3AhuAzzhWXIDqDB4Ni67T4nzdHRA86PyJMn38fz5N/igh/h2qO75gnWUoinS3GEzz69d9udThgrFyR/9DQXw4N06PBua7Bq78dI8FTbH9xpDUJDXLInMRos2ZO7rUE+HWBgPRukpzi27wWvSkqDYoiKPFWRrf1G0555a4VfmEwngIgGEzudjyiQHjzXjoMn88losF4zg9T6mrbDT9V60Gh3TGamZonQh+uGifQCCGuQP9Ym046gPQqdS0gDPRWCNTStw88ZbWhsM37KbM64dcdIpfROIr0ArHw+jT9IerCv/TzIhxhMtAfymjQ+DBLRoGJGNGgJWRj6QQdfztJgyFv19St/ZNF13bi7rHzE4mcREXgk/BVWJRkN+qiBbihMWyvC4LM+tIIGuj4rFtBfdq78kW2m67XW9Hmr5NkmXp080vaWBgM8KA0GS3vasxPVlqQGPTBY77YVfMz7cMrAya7JTOb0Z9xq6zJ2rogDt1Wmz1slj7x4HPNSeO/B0/xgkF96sKfZz19AAz8E4GUyGnQNMDg00iiLI15X1mIGTNICF2JrV/1EvM2JaQhooBj/MtFsW7P40sjWJr+8ALNL704vXp69fTVITAOI6UiP2jDV7eJLu1IRA6aeW416T/lFAydMW7V7Otr9Rq/eazTX1FirthZMLDbOpG7g+q9oUBq/KB0/n0z2JveO8y/G3OhXr99w32SsWn07SEoDnA3c0CkXJoEudprPEwwaG6Zh1nmUuIwZzHSFcXXDk2/IDF2mj1Y3xbvI72NMd4ZwZccwUvx5zWW1Bj8QiUg39Gg4xGlQOt8cn2QymZOT8eZ5afDuV1Pen9KdpPzABscUedAD4tWowyuICj2lobfwBNA1Zf8dHMN10ArLAxEVmEnaphHIMmZPNJpr2g6/mTVafhoyo1EWqwFXYXx4eLg5Ps+UBu/1wJtXX2VKmSQ0EPNfL3iqYnj50IuKXdBgnamPF6LtemVEF7QxYRZ1WSoIvE2TQcbtYuC0mr4GLNoXi9vEf+CBA88lcSh/B29DeRyCYZSEBg0/DyrWmCwT/KjADKCDyabp9d9WJZW2hs4E0SNkYqaTEu4AY40hM8QGU2vVxEjyAnOqRLAyQgRUQPzJJ2wYXZiheo6djTKJaLCDXepI6p4soiZwpJO05OiynUrfQRP4+BbBchPSwi4mSe4GOMq6AysMG02Ht0EngT/DXFefqBcr08nRynyVV74XGFXgNCENhjLCBY6SRVTAFV06SVNogP4iPKcnDYY8LwpqiCcHk4w/Y6o4wn47dSw5QBKZda6kweg35QWG8fvFn6/enYwyyWjgBL1L5Ae/AhZRUZTuLNcNKAxUh6qM6JnqVqGKrKy76m3ERzA17w69mfRKGoxOa0qCD+9Go5E8m4QGZsALdBP76VfAIio0kQF4IOAdtiM1QB/vtDt4EQ4+Jgq1hlJvU2TevIGkUrMKbCuzMBvPDXQ9M/LPJqBBS4xhVwKG2P4yyYsKN+C/YirsiZPcHHzUsVp0guYZ0vJI5rFZalaBbX1FgoV3ajaoXvgSLKwmoAEGuhlKCzj/iQpYRYUdHEkvdQaCyBBRwgKh0FIzZrDy1mQOYbEFOGiQjRUguzDaUEnXCDYkoQFO0iy0F4SyiAVEyJ3NtaBsFWExJkylTyuYZ3GyNSqhyhvA+DJiVkzKD0CFbFapwV/h7+iLDAXj4ygr2vlTIhpgoIf3ifwK2IsKMdfZ/i2QQPpiwSkyH06mawENcKJMeXHU9d6+PXvfxVqQBscw+iA1YGergdOrP3y7BrvTiarrV8Bq+NGdU6JZGFqXA5pS82VLXS+KbJFMUZrQJCElDK9PAhrMZMGbDt4nrQEOYrhg2/U6iYYwOyiLVsESAE7igLpyEwZLZgwZVFTWE3A2UHkjHX22H0xZvqoYPfQ0OB/x42x2OQt/CWiApV4kUWE613t2ICowtju95lpzB+MflpB+GSHyv3erMWwMZYchewQqb0TkN7cdWqL4Gixnl5fhDww/uTy92BBcqOkgpeMhV0Bc9+0a9KcTlS1MMncD60JZ5ZgmM4SVymB0/J6XDtrYrDOYSh2ZcBr+FCskFrnUqE1vyltglyB7+vtv1U+farBTwGCLz18pwLZf7WxVXvjtGvSg05E1rChtwV3VurASWQu6YJHtWY7NqJW/P2t2IRxgP27H32RAunL1a05vUgY0WEY3eP/yc2TXW2L8KjUof7sGsLups3Bvmrg6g7GG+tFUVY4aBaaL0GnVdLUzug7vgjY1aqJu4v7RMHXceYBGI1AaF5nQWJ/ujbUcplA42GDxGrxOzg9a7nDo1iMnmx2DGR2eDuqu6w5tlQFgd4il3LpK7V3eKtYAsFfuCmX6u/xep83H3x66LsR8HxqDRVhrqDNDd2P26yMaXP5x9vFDvB9UL5LzgxlUiqEaBjPA0C62WsXZ/+zm3fu/L7KL8ZcIDcqc1VX+sFwuFM47cSLoxkH5ujWIMAxXOdeGVV5cXDx/ePp+4+zLx88f3jhG9VNV4Ckhdg4uyvLrmjemgb+/eL2gBotlhM8FBwfnl5eXD4FLtWg0PsLhuZLgxjSw1QrwurHKgS/klqUYgjcqJ73EQ/+yG9LgKyu9ZBEazOEvPs3JV+XHKj1U/yjLdnnVDWkQrXKuDYtbHUv5T0+Dx5GmG9KgX2NJfstgNrM12JCFle5EWuZvak7kSfEGIoFrMEOCufIXpcHn8i1pcGMU5mdooEol43VUg7v2HU1tMh/P4n+Y+HJEdWMu3HJw211Onmd/i2W/rvgr3HBX/ycLQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQdxh/gtcSUZ8GcEbxAAAAABJRU5ErkJggg==" alt=""></a>
+    <a href="https://www.ajio.com/?gad_source=1&gclid=Cj0KCQjw-r-vBhC-ARIsAGgUO2BDnh_g1WZO_EAaXWFtyTHUzOnaYuutz7mnK3tH6UECB-_C2-rPa1EaArMaEALw_wcB"><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PDxAPDhAWEA8SEBUQFRUSDw8QEBYQFhEWFhUSFRUYHSgjGBooGxMVITIiJSkrLi4uFyAzODMsNygtLisBCgoKDg0NFRAQFSsdIB0rKy0rKy0tLSsrLSsrKzcrLSsrNzc3LS0tNzcrNzctNysrNysrKysrKysrKysrLSsrK//AABEIAKgBLAMBIgACEQEDEQH/xAAcAAEAAwEAAwEAAAAAAAAAAAAAAQYIBwMEBQL/xABHEAACAQIBBgkHCQgABwAAAAAAAQIDBBEFBgcSITEUMjVBUWFxgZETIiNCdKGzUlRyc7HBwsPRFyQ0U2KSk9IVFjNDgqLw/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAMCAQT/xAAfEQEBAQACAgMBAQAAAAAAAAAAAQIRMSFBAxJRMhP/2gAMAwEAAhEDEQA/AOdAA9LzgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCQBMYttJLFvYktrbPydA0PZvcJvHdVFjStsGsdzrPi+Cxfgct4jsnKgNAt+lHN/gV/OUI4ULjGrDDcpN+fHue3vKgJeYWcUAB1wAAAgkgD3LLJVzXTlQoVKsU8G4U5SSfQ8DzVsgXsIynO1rRhFa0pSpTSUVvbeG46xoK/g7n2hfDRcs9eTL72Wr8Nk7vzw3M+OWYwECjDyW9CdScadOLnOTwUYpyk31JH0f+WsofM63+Gf6HvaOuV7H678uRpMxrXDec8snXNtUpTdOrCVOa3xknGS59qZ4y1aUeV7rth8NFVNTpigBDOgC65k6PLjKOFaq3QtceNh6Se3bqJ83WzseQ8z7CyS8hQjrr15pTqP8A8n9xi7kameWdqGRbuosadtVkulUajX2E18h3lNYzta0V10an6GpUgzP+jX+bJX3A03lvNSxvU+EW8XLDjxShUXZJHHs9tHFewUq9u3Xtltez0sF/UlvXWjU3K5ccKMCCTbAAAAAAAAAAAIJIJAmnTc5RjFa0pNRSW9ybwS8cDS+ZeQo5PsqNul5+GvUfTVltk/u7jk+h3N7hN47upHGlbbsdzrNeal2Lb4HdES+S+lcRVNJOb3D7CcYL01H0tPraXnQ71j7jOxrRmetKOb3Ab+UoLChcY1YdCk358F2P3MfHfTm4qAAKpgAAEEkAdq0E/wAHc+0flouWevJl97LV+Gym6Cf4O59o/LRcs9eTb72Wr8NkNf0tP5ZjQYQZdFY9HXK9j9d+CRpMzZo65XsfrvwSNJkvk7Vx0zppR5Xuu2Hw0VUtWlHle67YfDRVSk6TvaC96MczOH1HcXEf3WlLdu8pUW3V+iuftKTa28qtSFKG2c5qEe2TwRqDN7JULO1o21NbKcEm+mXrSfa8TO7xHcTl71OEYpKKSilgklgkluSRVc7M/rPJ2MJN1rjD/pU2sV9OW6P2nraTs7nk63VOi/3qtiof0Q9ao/HBHAalSUpOU25Sbxbbxk297b6TGc8+a3rXHToV5peyhJvyVKlSjzJxlUfi2j82ml7KMX6WnSqro1ZQfimznoKfWJ/atC5paQrPKDVLHyFw/wDtzawk/wCiXP2by3SimmntTWDTWKwMnQm4tSi2mnimng01uaO8aLM73f0HQuHjdUUsXz1Ke5T7eZk9Z46bzrnwpGlPMlWc+GWscLapLCcVup1H0f0v3HPDVWVcn07qhUoVVjCpBwfet66zL+U7KVvXq0J8alOUH14PeaxrlzU4esCCSjAAAAAAAEASfqlTlOShBYyk1FJb228Evefg6Dodze4Tdu7qRxpW3FxWx13xfBbe9HLeI7JzXWMzMhRyfZUrdcdLWqPDfVltk/u7j5uk3OPgFjLyctW4reip4b08POn3L34FubM7aS84eH389V40aONGn0PB+dPva9yI5nNUt4jtOY2XllCxpV2/SJeTqLoqR2Px3956ukjN7h9hUjBY1qXpqfTrLjRXasV4HMNEWcPBb3g9SWFG5wht3KsuI+/au9HeBZxXZeYyWSXDSlm9wK/lOCwoXGNWHQpY+fHxePYynlpeUrOAAHXAgkgDtWgn+DufaPy0XLPXk2+9lq/DZTdBP8Hc+0flouWevJl97LV+GyGv6Wn8sxoMIMuisejrlex+u/BI0mZs0dcr2P134JGkyXydq46Z00o8r3XbD4aKqWrSjyvddsPhoqhSdJ3tZ9GVsquV7SL2qMpVP7ISkvsRo4zxooqKOWLbHnVSPe6UsDQ5LfamOmd9KeUHXyrcJvzaTjRiujVitb/2bKkWPSJQdPK16pc9ZzX0ZxUk/eV0rnpO9gAOuILLo6yi7fKlrJPZOp5GXXGez7cH3FbPsZm27q5Rs4R3u4g+6MtZ/YcvTsacRnzS5aqllaths8pTp1e9pxfvgzQaOB6ZqillZperbUovtxnL7JIl8fam+lHABZIAAAAAACAP3SpSnKMILWnKSjFLe5N4JeJpfM3IUbCyo26w1ktabXPUltk/u7jk+hzN7hF27uosaVtxcVvrPd4LF+B3PElu+lMT2+dnFbXFa1rUrWcadacXCM544RT2N7OfDE5J+xy++c0fCr+h2vXXSvFDXXSvFGJbOmrJXFoaHr+LTjc0U0000qmxranuOw5NhWjRpxuHGVZQSm4Y6rklg2sT2NddK8R5RdK8ULbeySRV9JGbyv7CpGKxrUvS0+nWS2x71ivAzn9prXeZ80p5vcCv5ThHChcY1YYblP14+O3vN4vpnc9qcQD6GQ8j176vGhbw1py3v1Yx55SfMiib54Pp5ayDdWVSVK4oyg09ktVunJdMZbmich5vXd9UVK3pSli9smmqcV0yluSHMd4dX0FRasrh8zudndTjiXDPaWGTL7H5rV+Gz9Zp5Chk+0pW0Hi4rGct2tUfGl/90HwNLuVo0MmVKePn3ElRS59XHGb8F7yPelesuAoMkguisejrlex+u/BI0mZs0dcr2P134JGkyXydq46Zz0o8r3XbD4aKsWrSjyvddsPhoqpSdJ3t7+b+UOC3dvcfyqsZv6OPne7E1FQrRqQjODxjKKkmtzi1in7zJp2jQ/nbGrRWT68sKtJeibfHpL1e2P2GNz21ivR015uSbhlGksUkqVbBbUlxJvq5vA5KaxuLeFWEoVIqUJRcZRaxTT3pnGs8NFdalKVXJ3paT2+SbwqR6ot8Ze85jXqu6y5mD2LmxrUm41aU6clzTpyi/eiLezq1Go06U5yfNGEpPwSKcpvAdS0K5uSlVllCpHCnFOnSx9aT2SkupLZ3nq5oaLLitKNXKC8jR3+TxXlZrofyV7zs1pbQo040qUVCnCKjGMVgkktxPevxvOXmlJJYvYltfYZjzwymru/ubhPGMqjUfoR82PuR1rSznarWg7OjL94rxwlg9sKT3t9De5HDUd+OezdSACjAAAAAAH6pUpTlGEFrSlJRilzybwS8Wfk+nm1laNldU7l0VXdPFxjKTitfDBS2J7gNDZnZDjk+yo264yjrVH8qrLbJ+OzuPlaUM4uA2MlB4V6+NKG3ak150+5faUz9s9b5lD/PP/UpeeOdFXKldVqkVTjGGpGEZOUYre3j0tkpm8+VLqceHxuE1f5k/wC+X6jhVX+ZP++X6niBThh5uFVf5k/75fqFdVVtVSeK28eX6niIHDjSeYWcCyhY0qrfpYrydVc/lIra+9YPvPDpFzf/AOIWFSEV6al6Wl9KK2x71ivA4vmVnjWyVKq4U1VhVSThKTitZPZJNLftZbv2z1vmUP8APP8A1JfWy+FPtLPLlqW3B7NuD2bunYaK0eZIsrezhKymq3lEpTq7NaUsNz+Sl8k4Ble8jcXFWtCkqKqTc9RPWjFvfg+jHF955si5durKeva1pU23i0tsJfSi9jN6nMZzeK1DOnF7JJNdaTEIJLCKSXUkji1npjvIxSq21Ko+lSnTx7tp+b3TDezi1Rt6VJv1m51Gu54In9Kp9o69lnK9CzpSrXFRU6cel7W/kxXOzPGemc1TKd060vNpRxjSh8mGPP1vnPn5Xyzc3k/KXVaVWXNi/Nj1RjuR6BTOOE9a5SQSQbZWPR1yvY/XfgkaTMs5Aym7O6o3UYKbpT11FvVT81rBvm3nQ/2z1vmUP88v9Se82t51Iq+lHle67YfDRVT6ecuWHfXVW6lBU3Ua81ScksIpb+4+YbnTN7QeS3rzpzjUpycJxkpRkng1Jbmj8A647hmLpKo3UY0L2So3PFUnspVOvH1ZdTOiJrmMlMsORM9co2WEaNw3BepU9JDDqx3dxO4/FJv9aSlSjLjJPtSYhSjHixUexJHGbfTJdJektaU30xnOHu2k19Mt015lpSi+mU6kv0M/Su/eOzsoOfGkehZqVG1kq91tWzbTpvpk1vfUcsy3nzlK8TjVuHCm/UpLyUe/Da+9lbNTH65d/jzXl1UrVJ1asnOpOWtKTeLbPCCSiYAAAAAAAAQSAIBIAAAAAABBIAEEgCASAIJAAAACASAIJAAAAAQSAIBIAgEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/9k=" alt=""></a>
+    <a href="https://www.myntra.com/"><img src="data:image/png;base64,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" alt=""></a><br>
+    <img style="opacity: 1;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZMNy5TmyOLu4P8HJ9LPDS8A1Fg6SDOOwZQ&s" alt="">
+    <img style="opacity: 0.9;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZMNy5TmyOLu4P8HJ9LPDS8A1Fg6SDOOwZQ&s" alt="">
+    <img style="opacity: 0.8;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZMNy5TmyOLu4P8HJ9LPDS8A1Fg6SDOOwZQ&s" alt="">
+    <img style="opacity: 0.7;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZMNy5TmyOLu4P8HJ9LPDS8A1Fg6SDOOwZQ&s" alt="">
+    <img style="opacity: 0.6;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZMNy5TmyOLu4P8HJ9LPDS8A1Fg6SDOOwZQ&s" alt="">
+    <img style="opacity: 0.5;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZMNy5TmyOLu4P8HJ9LPDS8A1Fg6SDOOwZQ&s" alt="">
+    <img style="opacity: 0.4;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZMNy5TmyOLu4P8HJ9LPDS8A1Fg6SDOOwZQ&s" alt="">
+    <img style="opacity: 0.3;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZMNy5TmyOLu4P8HJ9LPDS8A1Fg6SDOOwZQ&s" alt="">
+    <img style="opacity: 0.2;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZMNy5TmyOLu4P8HJ9LPDS8A1Fg6SDOOwZQ&s" alt="">
+    <img style="opacity: 0.1;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZMNy5TmyOLu4P8HJ9LPDS8A1Fg6SDOOwZQ&s" alt="">
+    <h1 style="background-color:rgba(255, 0, 255, 0.5);">rgba(255, 99, 71, 0.2)</h1>
+    <h1 style="background-color:rgba(255, 99, 71, 0.4);">rgba(255, 99, 71, 0.4)</h1>
+    <h1 style="background-color:rgba(255, 99, 71, 0.6);">rgba(255, 99, 71, 0.6)</h1>
+    <h1 style="background-color:rgba(255, 99, 71, 0.8);">rgba(255, 99, 71, 0.8)</h1>
+    <h1 style="background-color:hsla(120, 100%, 50%, 0.2);">hsla(0, 100%, 50%, 0.2)</h1>
+    <h1 style="background-color:hsla(120, 100%, 50%, 0.4);">hsla(0, 100%, 50%, 0.4)</h1>
+    <h1 style="background-color:hsla(120, 100%, 50%, 0.6);">hsla(0, 100%, 50%, 0.6)</h1>
+    <h1 style="background-color:hsla(120, 100%, 50%, 0.8);">hsla(0, 100%, 50%, 0.8)</h1>
+    <p style="background-image: url(https://static.india.com/wp-content/uploads/2022/01/shiva-g6bb47f56f_1280.jpg?impolicy=Medium_Widthonly&w=700);background-size: cover;">Lord Shiva, known by countless names like Mahadeva, Shankara, Bholenath, and Rudra, is a central and revered figure in Hindu mythology, representing the epitome of divinity and cosmic consciousness. As a principal deity in the Hindu pantheon, Lord Shiva embodies a plethora of attributes, symbolisms, myths, and spiritual significance that transcend the boundaries of time and space.
+
+        At the heart of Lord Shiva's iconography is his portrayal as a yogi deep in meditation amidst the serene and majestic Himalayas. He is often depicted with a crescent moon adorning his matted hair, symbolizing the cyclical nature of time, the passing of phases, and the eternal rhythm of creation and destruction. The crescent moon is not merely an ornament but a symbol of the cosmic order that Shiva oversees.
+        
+        His third eye, usually closed in a state of meditation, signifies wisdom, inner vision, and the power of destruction when opened. This third eye represents the ability to see beyond the illusions of the material world, to discern truth from falsehood, and to bring about transformation and liberation. It is a potent symbol of Shiva's role as both a creator and a destroyer.
+        
+        The snake coiled around his neck symbolizes his mastery over fear, desire, and the life force (kundalini shakti). It represents the unification of opposing forces, such as life and death, creation and destruction, in a harmonious balance that sustains the universe. The snake also serves as a reminder of the primal energy that flows through all living beings and the potential for spiritual awakening.
+        
+        Lord Shiva's attire, often minimalistic and adorned with tiger or deer skin, reflects his detachment from worldly possessions and his affinity with nature. The tiger skin represents his prowess and fearlessness, while the deer skin symbolizes his compassion and gentleness towards all living beings. These contrasting elements in his attire highlight the multifaceted nature of his divine persona.
+        
+        His iconic trishula (trident) embodies the power to destroy ignorance, ego, and illusion, paving the way for spiritual evolution and self-realization. The trishula also represents the three fundamental aspects of existence: creation, preservation, and destruction, which are inherent in the cyclical nature of the cosmos.
+        
+        Lord Shiva's consort, Goddess Parvati, symbolizes the divine feminine energy (Shakti) that complements his masculine aspects, representing the inseparable union of dynamic forces responsible for creation and sustenance. Together, they embody the cosmic duality of Purusha (consciousness) and Prakriti (nature), symbolizing the interdependence and harmony of masculine and feminine energies in the cosmic dance of life.
+        
+        The sacred river Ganga, often depicted flowing from Lord Shiva's matted hair, signifies purification, renewal, and the life-giving force of water. The Ganga's descent from the heavens to earth through Shiva's locks represents the divine connection between the celestial realms and the mortal world, offering spiritual cleansing and liberation to those who seek it.
+        
+        In his role as the Adiyogi or the first yogi, Lord Shiva is revered as the ultimate guru who imparted the knowledge of yoga, meditation, and spiritual practices to humanity for attaining self-awareness and enlightenment. His teachings emphasize the importance of inner transformation, self-discipline, and devotion on the path to realizing one's true nature and transcending the cycle of birth and death.
+        
+        The symbolism of Lord Shiva extends beyond religious boundaries, influencing art, literature, philosophy, and cultural traditions across the globe. His cosmic dance, known as the Tandava, represents the rhythmic cycles of creation and destruction in the universe, showcasing the eternal flow of energies that sustain the cosmic order.</p>
+        <picture>
+            <source media="(min-width:300px)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCCOkUc5lp1bxC3QAmIlyghcmi8nzIWQDl3g&s">
+            <source media="(min-width:500px)" srcset="">
+            <img style ="min-width:auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXaM5dbnpZagszsrE5b1Dzwmdju-wpgFd9_w&s">
+        </picture><br>
+        <img src="download.jpeg" usemap="#image_map">
+<map name="image_map">
+  <area alt="" title="" href="./download (1).jpeg" coords="58,62,107,141" shape="rect"></area>
+  <area alt="" title="" href="./download (2).jpeg" coords="109,40,153,143" shape="rect"></area>
+  <area alt="" title="" href="./download (4).jpeg" coords="18,45,53,133" shape="rect"></area>
+  <area alt="" title="" href="./download (5).jpeg" coords="33,7,80,43" shape="rect"></area>
+  <area alt="" title="" href="./download (3).jpeg" coords="85,22,107,59" shape="rect"></area>
+  <ul style="list-style-type: circle;">
+    <li>sravya</li>
+    <li>latha</li>
+    <li>kavya</li>
+    <li>priya</li>
+    <li>ramya</li>
+  </ul>
+  <ul style="list-style: disc;">
+    <li>sravya</li>
+    <li>latha</li>
+    <li>kavya</li>
+    <li>priya</li>
+    <li>ramya</li>
+  </ul>
+  <ul style="list-style-type: square;">
+    <li>sravya</li>
+    <li>latha</li>
+    <li>kavya</li>
+    <li>priya</li>
+    <li>ramya</li>
+  </ul>
+  <ul style="list-style-type: none;">
+    <li>sravya</li>
+    <li>latha</li>
+    <li>kavya</li>
+    <li>priya</li>
+    <li>ramya</li>
+  </ul>
+  <ul style="background-color: blue;">
+    <li>sravya</li>
+    <li>latha</li>
+    <li>kavya</li>
+    <li>priya</li>
+    <li>ramya</li>
+  </ul>
+  <ul style="color: indianred;">
+    <li>sravya</li>
+    <li>latha</li>
+    <li>kavya</li>
+    <li>priya</li>
+    <li>ramya</li>
+  </ul>
+  
+  <marquee behavior="" direction=""><ul>
+    <li>sravya</li>
+    <li>latha</li>
+    <li>kavya</li>
+    <li>priya</li>
+    <li>ramya</li>
+  </ul></marquee>
+  <marquee behavior="" direction=""><ul style="color: crimson;">
+    <li>sravya</li>
+    <li>latha</li>
+    <li>kavya</li>
+    <li>priya</li>
+    <li>ramya</li>
+  </ul></marquee>
+  <marquee behavior="" direction=""><ul style="font-size: xx-large;color: chartreuse;background-color: cornflowerblue;">
+    <li>sravya</li>
+    <li>latha</li>
+    <li>kavya</li>
+    <li>priya</li>
+    <li>ramya</li>
+  </ul></marquee>
+  <OL>
+    <LI>ID</LI>
+    <LI>NAME</LI>
+    <LI>COURSE</LI>
+    <LI>AGE</LI>
+    <LI>NUMBER</LI>
+  </OL>
+  <OL start="7" style="list-style-type: lower-alpha;color: crimson;background-color: cornflowerblue;font-size: xx-large;font-family: Georgia, 'Times New Roman', Times, serif; margin: 10%;padding: 10%;">
+    <LI>ID</LI>
+    <LI>NAME</LI>
+    <LI>COURSE</LI>
+    <LI>AGE</LI>
+    <LI>NUMBER</LI>
+  </OL>
+  <OL style="list-style-type: lower-greek;">
+    <LI>ID</LI>
+    <LI>NAME</LI>
+    <LI>COURSE</LI>
+    <LI>AGE</LI>
+    <LI>NUMBER</LI>
+  </OL>
+  <OL style="list-style-type: lower-roman;">
+    <LI>ID</LI>
+    <LI>NAME</LI>
+    <LI>COURSE</LI>
+    <LI>AGE</LI>
+    <LI>NUMBER</LI>
+  </OL>
+  <OL style="list-style-type: georgian;">
+    <LI>ID</LI>
+    <LI>NAME</LI>
+    <LI>COURSE</LI>
+    <LI>AGE</LI>
+    <LI>NUMBER</LI>
+  </OL>
+  <UL>
+    <LI>INTERMIDIATE</LI>
+    <OL>
+      <LI>MPC</LI>
+      <OL style="list-style-type: lower-alpha;">
+        <LI>CSE</LI>
+        <LI>IT</LI>
+        <LI>ECE</LI>
+        <LI>EEE</LI>
+      </OL>
+      <LI>BIPC</LI>
+      <OL style="list-style-type: lower-alpha;">
+        <LI>Bachelor of Pharmacy</LI>
+        <LI>BSc Physics</LI>
+        <LI>BSc Chemistry</LI>
+        <LI>BSc Computer Science</LI>
+        <LI>Agriculture</LI>
+      </OL>
+      <LI>CEC</LI>
+      <OL style="list-style-type: lower-alpha;">
+        <LI>B.COM</LI>
+        <LI>B.A.</LI>
+        <LI>BBM</LI>
+        <LI>BBA</LI>
+      </OL>
+      <LI>HEC</LI>
+      <OL style="list-style-type: lower-alpha;">
+        <LI>BA(Economics)</LI>
+        <LI>BA(Social welfare)</LI>
+        <LI>BA(mass communication)</LI>
+        <LI>Bachelors in History</LI>
+        <LI>Political Science</LI>
+      </OL>
+    </OL>
+  </UL>
+  <Dl>
+    <DT>PHONES</DT>
+    <DD>IPHONE</DD>
+    <DD>ONE PLUS</DD>
+    <DD>SAMSUNG</DD>
+  </Dl>
+  <h1 style="color: brown;background-color: darkgreen;border: 15px solid black;">HORIZONTAL TABLE</h1>
+  <Table>
+    <tr>
+      <th>ID</th>
+      <th>NAME</th>
+      <th>AGE</th>
+      <th>NUMBER</th>
+      <th>COURSE</th>
+    </tr>
+    <tr>
+    <TD>1</TD>
+    <TD>sravya</TD>
+    <TD>20</TD>
+    <TD>9550738591</TD>
+    <TD>Full stack</TD>
+    </tr>
+    <tr>
+      <TD>2</TD>
+      <TD>harika</TD>
+      <TD>20</TD>
+      <TD>954567899</TD>
+      <TD>AWS</TD>
+      </tr>
+      <tr>
+        <TD>3</TD>
+        <TD>sri</TD>
+        <TD>20</TD>
+        <TD>9545687691</TD>
+        <TD>cloud computing</TD>
+        </tr>
+        <tr>
+        <TD>4</TD>
+        <TD>chottu</TD>
+        <TD>20</TD>
+        <TD>876528591</TD>
+        <TD>google cloud</TD>
+        </tr>
+        <tr>
+        <TD>5</TD>
+        <TD>sasi</TD>
+        <TD>20</TD>
+        <TD>9098765431</TD>
+        <TD>cyber security</TD>
+        </tr>
+  </Table>
+  <H1 style="border: 15PX solid gray;color: aqua;background-color: darksalmon;">VERTICAL TABLE</H1>
+  <table>
+  <TR>
+    <TH>ID</TH>
+    <TD>1</TD>
+    <TD>2</TD>
+    <TD>3</TD>
+    <TD>4</TD>
+    <TD>5</TD>
+  </TR>
+  <TR>
+    <TH>NAME</TH>
+    <TD>sravya</TD>
+    <TD>kavya</TD>
+    <TD>priya</TD>
+    <TD>ramya</TD>
+    <TD>sasi</TD>
+  </TR>
+  <tr>
+    <th>AGE</th>
+    <td>20</td>
+    <td>20</td>
+    <td>20</td>
+    <td>20</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <th>NUMBER</th>
+    <td>9550738591</td>
+    <td>954567899</td>
+    <td>9545687691</td>
+    <td>234567823</td>
+    <td>98765432</td>
+  </tr>
+  <tr>
+    <th>COURSE</th>
+    <td>Full stack</td>
+    <td>AWS</td>
+    <td>cloud computing</td>
+    <td>google cloud</td>
+    <td>cyber security</td>
+  </tr>
+</table>
+<h1 style="color: #0000ff;background-color: darksalmon;border: 15px solid black;">Different operations in tables</h1>
+<table style="border-color: red; background-color: white;">
+  <tr>
+  <TD>1</TD>
+  <TD colspan="2">sravya</TD>
+  <TD>20</TD>
+  <TD>9550738591</TD>
+  <TD>Full stack</TD>
+  </tr>
+  <tr>
+    <TD>2</TD>
+    <TD>harika</TD>
+    <TD colspan="2">20</TD>
+    <TD>954567899</TD>
+    <TD>AWS</TD>
+    </tr>
+    <tr>
+      <TD>3</TD>
+      <TD>sri</TD>
+      <TD>20</TD>
+      <TD colspan="2">9545687691</TD>
+      <TD>cloud computing</TD>
+      </tr>
+      <tr>
+      <TD>4</TD>
+      <TD>chottu</TD>
+      <TD>20</TD>
+      <TD>876528591</TD>
+      <TD colspan="2">google cloud</TD>
+      </tr>
+      <tr>
+      <TD colspan="2">5</TD>
+      <TD>sasi</TD>
+      <TD>20</TD>
+      <TD>9098765431</TD>
+      <TD>cyber security</TD>
+      </tr>
+</table>
+<h1 style="border: 15px solid yellow;background-color: aquamarine;color: violet;">Assignment in table operations</h1>
+<table style="border-collapse: separate;background-color: white;">
+  <tr>
+    <th>Header column 1</th>
+    <th>Header column 2</th>
+    <th>Header column 3</th>
+    <th>Header column 4</th>
+  </tr>
+  <tr>
+    <td style="padding: 20px;">Row 2 - Item 1</td>
+    <td>Row 2 - Item 2</td>
+    <th rowspan="2">Row 2:Nested Table 1
+      <table style="border-collapse: separate;">
+        <tr>
+          <th>Row 1 Header</th>
+          <td>item</td>
+        </tr>
+        <tr>
+          <th>Row 2 Header</th>
+          <td>item</td>
+        </tr>
+        <tr>
+          <th>Row 3 Header</th>
+          <td>item</td>
+        </tr>
+      </table>
+    </th>
+    <td>Row 2 - Item 4 A second line </td>
+  </tr>
+  <tr>
+    <th>Row 3:Nested Table 2
+      <table style="border-collapse: separate;border-color: crimson;">
+        <th>Row 1 Header</th>
+        <td>item</td>
+      </table>
+      <table style="border-collapse: separate;">
+        <th>Row 2 Header</th>
+        <td>item</td>
+      </table>
+    </th>
+    <td>Row 3 - Item 2</td>
+    <td rowspan="2">Row 3 - Item 3</td>
+  </tr>
+  <tr>
+    <td>Row 4 - Item 1</td>
+    <td>Row 4 - Item 2</td>
+    <td>Row 4 - Item 3</td>
+  </tr>
+  <tr>
+    <td colspan="4">Row 5 - Last row of outer table</td>
+  </tr>
+</table>
+<h1 style="border: 15px solid salmon;background-color: aqua;color: rgb(198, 144, 27);">Assigment 2 on tables</h1>
+<table>
+  
+  <tr>
+    <td style="background-color: white;"></td>
+    <td style="background-color: white;"></td>
+    <th style="background-color: aqua;">Column header 1a</th>
+    <th style="background-color: aqua;">Column header 1b</th>
+    <th style="background-color: aqua;">Column header 1c</th>
+    <th style="background-color: aqua;">Column header 1d</th>
+  </tr>
+  <tr>
+    <td style="background-color: white;"></td>
+    <td style="background-color: white;"></td>
+    <th style="background-color: aqua;">Column header 2a</th>
+    <th style="background-color: aqua;">Column header 2b</th>
+    <th style="background-color: aqua;">Column header 2c</th>
+    <th style="background-color: aqua;">Column header 2d</th>
+  </tr>
+  <tr>
+    <th rowspan="4">Row header 1a</th>
+    <th>Row header 2a</th>
+    <td style="background-color: white;">Data col 1 row 1</td>
+    <td style="background-color: white;">Data col 2 row 1</td>
+    <td style="background-color: white;">Data col 3 row 1</td>
+    <td style="background-color: white;">Data col 4 row 1</td>
+  </tr>
+  <tr>
+    <th>Row header 2b</th>
+    <td style="background-color: white;">Data col 1 row 2</td>
+    <td style="background-color: white;">Data col 2 row 2</td>
+    <td style="background-color: white;">Data col 3 row 2</td>
+    <td style="background-color: white;">Data col 4 row 2</td>
+  </tr>
+  <tr>
+    <th>Row header 2c</th>
+    <td style="background-color: white;">Data col 1 row 3</td>
+    <td style="background-color: white;">Data col 2 row 3</td>
+    <td style="background-color: white;">Data col 3 row 3</td>
+    <td style="background-color: white;">Data col 4 row 3</td>
+  </tr>
+  <tr>
+    <th colspan="3">Summary Sub-Total</th>
+    <td style="background-color: white;">Total 1a</td>
+    <td style="background-color: white;">Total 2a</td>
+  </tr>
+  <tr>
+    <th rowspan="3">Row header 1b</th>
+    <th>Row border 2b</th>
+    <td style="background-color: white;">Data col 1 row 1</td>
+    <td style="background-color: white;">Data col 2 row 1</td>
+    <td style="background-color: white;">Data col 3 row 1</td>
+    <td style="background-color: white;">Data col 4 row 1</td>
+  </tr>
+  <th>Row header 2e</th>
+  <td style="background-color: white;">Data col 1 row 2</td>
+  <td style="background-color: white;">Data col 2 row 2</td>
+  <td style="background-color: white;">Data col 3 row 2</td>
+  <td style="background-color: white;">Data col 4 row 2</td>
+</tr>
+<tr>
+  <th colspan="3">Summary Sub-Total</th>
+  <td style="background-color: white;">Total 1b</td>
+  <td style="background-color: white;">Total 2b</td>
+</tr>
+<tr>
+  <th colspan="4">Grand Total</th>
+  <td style="background-color: white;">Grand Total</td>
+  <td style="background-color: white;">Grand Total</td>
+</tr>
+</table>
+</map>
+</body>
+</html>
